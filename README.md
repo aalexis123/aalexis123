@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**aalexis123/aalexis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data analyst focused on turning raw data into clear, actionable insights.
 
-Here are some ideas to get you started:
+I have hands-on experience with SQL, data cleaning, and Power BI dashboards, and I’m currently expanding into Applied AI to build more intelligent, automated solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m focused on strengthening my foundation in data while gradually integrating AI into my projects.
+
+Current Focus
+
+
+📊 Building strong data analytics projects (SQL → Power BI)
+
+
+📈 Improving dashboard design and business storytelling 
+
+
+🤖 Learning how to integrate AI into data workflows 
+
+
+📚 Preparing for the Microsoft Power BI Data Analyst Certification (PL-300)!--
