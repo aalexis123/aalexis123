@@ -1,21 +1,24 @@
-## Hi there 👋
+## Hi there Im Alexis 👋
 
-I’m a data analyst focused on turning raw data into clear, actionable insights.
+I'm an aspiring AI/ML Engineer & Data Engineer with a strong foundation in data analytics, focused on building intelligent, automated, and data-driven solutions.
+My experience spans the full data lifecycle
 
-I have hands-on experience with SQL, data cleaning, and Power BI dashboards, and I’m currently expanding into Applied AI to build more intelligent, automated solutions.
 
-Right now, I’m focused on strengthening my foundation in data while gradually integrating AI into my projects.
+From cleaning and structuring raw data to building machine learning pipelines and fine-tuning large language models. I enjoy solving real world problems at the intersection of data engineering and artificial intelligence.
 
 Current Focus
 
 
-📊 Building strong data analytics projects (SQL → Power BI)
+🤖 Building and deploying AI/ML models into production ready applications
 
 
-📈 Improving dashboard design and business storytelling 
+⚙️ Strengthening data engineering skills through real world pipeline projects
 
 
-🤖 Learning how to integrate AI into data workflows 
+📊 Maintaining strong data analytics fundamentals with SQL and Power BI
 
 
-📚 Preparing for the Microsoft Power BI Data Analyst Certification (PL-300)!--
+🧠 Deepening expertise in LLMs, RAG systems, and MLOps
+
+
+📚 Preparing for the Microsoft Power BI Data Analyst Certification (PL-300)
